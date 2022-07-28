@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<settings>
+  <setting channel="11" note="32" command_string="profile1"/>
+  <setting channel="11" controller="11" command_string="SaturationAdjustmentRed"/>
+  <setting channel="11" note="33" command_string="profile2"/>
+  <setting channel="11" note="34" command_string="profile3"/>
+  <setting channel="11" note="35" command_string="profile4"/>
+  <setting channel="11" controller="14" command_string="SaturationAdjustmentGreen"/>
+  <setting channel="11" note="36" command_string="profile5"/>
+  <setting channel="11" controller="15" command_string="SaturationAdjustmentAqua"/>
+  <setting channel="11" note="37" command_string="profile6"/>
+  <setting channel="11" controller="12" command_string="SaturationAdjustmentOrange"/>
+  <setting channel="11" note="38" command_string="profile7"/>
+  <setting channel="11" note="41" command_string="Undo"/>
+  <setting channel="11" note="42" command_string="Redo"/>
+  <setting channel="11" note="45" command_string="EnableColorAdjustments"/>
+  <setting channel="11" note="46" command_string="Prev"/>
+  <setting channel="11" note="47" command_string="Next"/>
+  <setting channel="11" controller="13" command_string="SaturationAdjustmentYellow"/>
+  <setting channel="11" note="39" command_string="Key1"/>
+  <setting channel="11" note="24" command_string="ResetSaturationAdjustmentRed"/>
+  <setting channel="11" note="25" command_string="ResetSaturationAdjustmentOrange"/>
+  <setting channel="11" note="26" command_string="ResetSaturationAdjustmentYellow"/>
+  <setting channel="11" note="27" command_string="ResetSaturationAdjustmentGreen"/>
+  <setting channel="11" note="28" command_string="ResetSaturationAdjustmentAqua"/>
+  <setting channel="11" note="29" command_string="ResetSaturationAdjustmentBlue"/>
+  <setting channel="11" note="30" command_string="ResetSaturationAdjustmentPurple"/>
+  <setting channel="11" note="31" command_string="ResetSaturationAdjustmentMagenta"/>
+  <setting channel="11" controller="16" command_string="SaturationAdjustmentBlue"/>
+  <setting channel="11" controller="17" command_string="SaturationAdjustmentPurple"/>
+  <setting channel="11" controller="18" command_string="SaturationAdjustmentMagenta"/>
+  <setting channel="11" note="40" command_string="ResetAllSaturationAdjustment"/>
+</settings>
