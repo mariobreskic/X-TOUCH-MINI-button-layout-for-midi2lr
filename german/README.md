@@ -1,8 +1,8 @@
 # 🎛️ Deutsche Layouts – MIDI2LR + X-TOUCH MINI
 
-Du befindest dich im Ordner für die **englischen** Layouts.
+Du befindest dich im Ordner für die **Deutschen** Layouts.
 
-Dieser Ordner enthält MIDI2LR-Layout-Profile mit englischen Bezeichnungen, optimiert für die Bildbearbeitung in Adobe Lightroom Classic mit dem Behringer X-TOUCH MINI.
+Dieser Ordner enthält MIDI2LR-Layout-Profile mit deutschen Bezeichnungen, optimiert für die Bildbearbeitung in Adobe Lightroom Classic mit dem Behringer X-TOUCH MINI.
 
 ### 📄 Enthaltene Layouts
 
