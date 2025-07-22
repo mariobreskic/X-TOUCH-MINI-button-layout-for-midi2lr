@@ -1,8 +1,4 @@
-Sure! Here’s the German translation of your README text for the English folder, with Lightroom menu labels adapted for the German Lightroom Classic interface (not literal translations):
-
----
-
-# 🎛️ Englische Layouts – MIDI2LR + X-TOUCH MINI
+# 🎛️ Deutsche Layouts – MIDI2LR + X-TOUCH MINI
 
 Du befindest dich im Ordner für die **englischen** Layouts.
 
