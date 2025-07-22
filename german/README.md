@@ -19,7 +19,3 @@ Dieser Ordner enthält MIDI2LR-Layout-Profile mit englischen Bezeichnungen, opti
 * `7 Effekte.xml` – Vignettierung, Körnung, Rauschreduzierung, Aufrichten
 
 Anleitungen zur Nutzung findest du im [Haupt-README](../README.md).
-
----
-
-If you want, I can also help with the German folder README or double-check the Lightroom UI terms for the latest Lightroom version you use.
