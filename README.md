@@ -6,8 +6,8 @@ These layouts provide tactile, dial-based editing of Lightroom functions — fro
 
 ## 📂 Layout Variants
 
-- [`/en`](./en) – English-labeled profiles and documentation
-- [`/de`](./de) – Deutsche Beschriftung und Anleitung
+- [`/english`](./english) – English-labeled profiles and documentation
+- [`/german`](./german) – Deutsche Beschriftung und Anleitung
 
 Each folder contains:
 - Multiple XML layout profiles
